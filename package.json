@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/wjohnso-insight/miragejs-server#readme",
   "dependencies": {
-    "miragejs": "^0.1.41"
+    "axios": "^0.21.1",
+    "mirage": "0.0.7",
+    "miragejs": "^0.1.41",
+    "regenerator-runtime": "^0.13.7"
   }
 }
