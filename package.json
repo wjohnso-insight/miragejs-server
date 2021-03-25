@@ -1,0 +1,23 @@
+{
+  "name": "mirage-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjohnso-insight/miragejs-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjohnso-insight/miragejs-server/issues"
+  },
+  "homepage": "https://github.com/wjohnso-insight/miragejs-server#readme",
+  "dependencies": {
+    "miragejs": "^0.1.41"
+  }
+}
